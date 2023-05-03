@@ -8,7 +8,7 @@
 # inputString = input()
 # print("String provided is " + inputString)
 #from udemy lecture 11
-print(len(input("What is your name")))
+# print(len(input("What is your name")))
 # inputString = input("Your name > ")
 # lengthOfString = len(inputString)
 # print("your name has ",lengthOfString)

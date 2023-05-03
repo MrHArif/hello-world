@@ -31,13 +31,20 @@
 # digit_2 = int(two_digit_number[1])
 # total = digit_1 + digit_2
 # print(total)
+
+# Day2, exercise 2. BMI
+#  bmi is weight divided by height squared kg/m^2
+# height = float(input("Height in m")) **2
+# weight = float(input("weight in kg"))
+# bmi = float((weight/height))
+# print(f"bmi is {bmi}")
 ####################################
 # Lec 22, Mathematical operators
-print(3+5)
-print(7-4)
-print(6/3)
-print(2%5)
-print(2**3)
+# print(3+5)
+# print(7-4)
+# print(6/3)
+# print(2%5)
+# print(2**3)
 # PEMDAS
 # (Calc to the left will be done first for * and / )
 # Parenthese ()
@@ -46,6 +53,28 @@ print(2**3)
 # Division / or */(same priority)
 # Addition +
 # Subtraction -
-print(3*3+3/3-3)
+# print(3*3+3/3-3)
+# a_round_example = (round(8/3, 2))
+# print(a_round_example)
+# a_round_example += 1
+# print(a_round_example)
+# print(f"your score is {a_round_example}")
 
+# Day 2. Exertcise3- Your life in weeks
+# 🚨 Don't change the code below 👇
+# age = input("What is your current age?")
+# 🚨 Don't change the code above 👆
+#Write your code below this line 👇
+# age_int = 56
+# daysInYr = 365
+# weeksInYr = 52
+# monthInYr = 12
+# ageLimit = 90
+# yrsRem = 90 - age_int
+# daysRem =yrsRem * 365
+# weeksRem = yrsRem * 52
+# monthsRem = yrsRem * 12
+# print(f"You have {daysRem}days, {weeksRem}weeks and {monthsRem}months")
+
+# Day 2,exercise 4
 
